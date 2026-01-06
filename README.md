@@ -1,6 +1,5 @@
 # Movie_recommendation_app
 https://movierecommendationapp-73v86ozlt9r2nncegtaugs.streamlit.app/
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c8f3363e-390c-49c0-b97e-0de5918779c2" />
 
 We will use GenAI model like google gemini to suggest a movie similar to the user input 
 ## How does it work:
